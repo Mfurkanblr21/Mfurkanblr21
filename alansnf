@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        .tablo2{
+            background-color: black;
+            color: red;
+        }
+        .sayı1{
+            color: whitesmoke ;
+        }
+        .say2{
+            color: yellow;
+        }
+        .say3{
+            color: orange;
+        }
+        .say4{
+            color: purple;
+        }
+    </style>
+   
+    <title>Mfb</title>
+</head>
+<body>
+    <table class="tablo2" border="3" cellpadding="15" align="center">
+<caption> SINAV</caption>
+<tr>
+    <td colspan="4"> <img src="image/banner.jfif" width="600px" height="200px"></td>
+</tr>
+<tr>
+    <td><a href="anasayfa.html">ANA SAYFA</a></td>
+    <td><a href="alan.snf.html">ALAN-SINIF</a></td>
+    <td><a href="dersprogramı.html"> DERS PROGRAMI </a></td>
+    <td><a href="galeri.html">GALERİ</a></td>
+</tr>
+<td colspan="4">
+    <ol class="sayı1">
+  <li>11/B BİLİŞİM</li>
+
+   <ul class="say2">
+   <li> GRAFİK VE CANLANDIRMA </li>
+   <li> MOBİL UYGULAMALAR </li>
+   <li> SEÇMELİ OYUN PROGRAMLAMA </li>
+   <li> WEB TABANLI UYGULAMA GELİŞTİRME </li>
+   <li>SEÇMELİ WEB TABANLI İÇERİK YÖNETİMİ</li>
+   </ul>
+   
+
+    <li>11/D MOTOR</li>
+
+   <ul class="say3">
+   <li> DİZEL YAKIT SİSTEMLERİ </li>
+   <li> HAREKET KONTROL SİSTEMLERİ ATÖLYESİ </li>
+   <li>  SEÇMELİ CİSİMLERİN DAYANIMI </li>
+   <li> SEÇMELİ OTOMOTİV TEST TEKNİKLERİ </li>
+   <li>SEÇMELİ TEMEL MAKİNE ELEMANLARI</li>
+   </ul>
+   
+    <li>11/E MAKİNE</li>
+
+   <ul class="say4">
+   <li>BİLGİSAYAR DESTEKLİ TASARIM </li>
+   <li>BİLGİSAYAR KONTROLLÜ ÜRETİM </li>
+   <li>  SEÇMELİ CİSİMLERİN DAYANIMI </li>
+   <li> SEÇMELİ MALZEME BİLGİSİ </li>
+   <li>SEÇMELİ MEKANİZMA ÇİZİMLERİ</li>
+   <li>SEÇMELİ ÖLÇME VE KONTROL</li>
+   <li>YENİLİKÇİ ÜRETİM YÖNTEMLERİ</li>
+   </ul>
+</ol>
+ 
+</td>
+    
+</body>
+</html>
